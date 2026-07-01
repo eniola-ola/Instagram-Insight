@@ -16,5 +16,5 @@ Growth of engagement and interactions across different Instagram posts, analyzin
 <h1></h1>
 <p align="center">
 Dashboard Preview: <br/>
-<img src="https://github.com/eniola-ola/Instagram-Insight/blob/main/Screenshot%202026-07-01%20083643.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/eniola-ola/Instagram-Insight/blob/main/Instagram%20insight%20Preview.png?raw=true?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
