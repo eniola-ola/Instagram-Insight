@@ -7,6 +7,7 @@ This report provides a comprehensive analysis of the company's Instagram insight
 
 <h2>Tools Used</h2>
 
+- <b>Excel</b> 
 - <b>Power Bi</b> 
 
 
@@ -16,5 +17,5 @@ Growth of engagement and interactions across different Instagram posts, analyzin
 <h1></h1>
 <p align="center">
 Dashboard Preview: <br/>
-<img src="https://github.com/eniola-ola/Instagram-Insight/blob/main/Instagram%20insight%20Preview.png?raw=true?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/eniola-ola/Instagram-Insight/blob/main/IG%20progress%20report%20%20preview.png?raw=true?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
